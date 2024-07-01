@@ -102,3 +102,9 @@
 
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
+## Acknowledgements
+
+The badges used in this document are sourced from the following:
+
+- [Ileriayo Markdown Badges](https://github.com/Ileriayo/markdown-badges)
+- [Shields.io](https://img.shields.io)
