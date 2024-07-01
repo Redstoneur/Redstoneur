@@ -1,14 +1,12 @@
-![GIF](https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif)
+<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="150" height="150" align="right" alt="GIF">
 
-## Bonjour ! 👋
+## Hello! 👋
 
-Je suis Redstoneur, développeur.
+I am Redstoneur, a developer.
 
-J'aime apprendre de nouvelles choses et parfois, j'aime m'entraîner sur CodinGame.
+## 🛠 Languages and Tools:
 
-## 🛠 Langages et outils:
-
-### IDEs : 
+### IDEs :
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
