@@ -4,9 +4,13 @@
 
 I am Redstoneur, a developer.
 
+The project I am most proud of, despite its many imperfections,
+is [Jeu_de_la_vie](https://github.com/Redstoneur/Jeu_de_la_vie).
+
 ## 🛠 Languages and Tools:
 
-For all of my Languages and Tools badges, please see [LANGUAGES_AND_TOOLS.md](./LANGUAGES_AND_TOOLS.md)
+For a comprehensive view of my language and tool badges, please refer to
+the [LANGUAGES_AND_TOOLS.md](./LANGUAGES_AND_TOOLS.md) file.
 
 ### ⛏️ IDEs :
 
