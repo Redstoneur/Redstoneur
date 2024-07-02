@@ -101,6 +101,7 @@
 ## 🤖 Other:
 
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+![CodinGame](https://img.shields.io/badge/CodinGame-F2BB13.svg?style=for-the-badge&logo=CodinGame&logoColor=black)
 
 ## Acknowledgements
 
